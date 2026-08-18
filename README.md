@@ -21,4 +21,3 @@ AI products need more than a model connected to an interface. They need sound ar
 - ☁️ **Cloud, Data, and Operations:** I create scalable cloud environments, data pipelines, deployment workflows, and reliable foundations for AI-enabled products.
 
 I bring a product-minded, systems-first perspective to complex technical challenges. Whether the work is a focused AI capability, a new internal platform, or a complete customer-facing product, I prioritize quality, clear communication, and long-term reliability. The result is software that is not only impressive in a demo, but genuinely valuable in day-to-day operations.
-# franthony03987
