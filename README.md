@@ -1,9 +1,3 @@
-# Frank Anthony Portfolio
-
-<p align="center">
-  <strong>Full Stack AI &amp; Cloud Engineer</strong>
-</p>
-
 ## About Me
 
 I am a Full Stack AI and Cloud Engineer who turns ambitious ideas into dependable software. I work across AI engineering, product development, data, and cloud infrastructure, helping teams move from early concepts to systems trusted in production. I focus each decision on user needs and outcomes.
